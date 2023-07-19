@@ -4,7 +4,7 @@ function Footer(){
         <footer style={{color:"white",width: "1000px", margin: "10px auto",textAlign:"center",marginTop:"10px"}}>
             <a
             href="https://github.com/sukhjit2003">https://github.com/sukhjit2003 </a>
-            <p>&#128151;</p>
+            <p>&#x1F4BB;</p>
         </footer>
     )
 }
