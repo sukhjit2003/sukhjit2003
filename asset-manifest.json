@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/sukhjit2003/static/css/main.b026715d.css",
-    "main.js": "/sukhjit2003/static/js/main.34615d0c.js",
+    "main.js": "/sukhjit2003/static/js/main.215d4ecb.js",
     "static/js/787.6e1d3aae.chunk.js": "/sukhjit2003/static/js/787.6e1d3aae.chunk.js",
+    "static/media/pizza order.png": "/sukhjit2003/static/media/pizza order.d6b39877c47cefed5210.png",
+    "static/media/scheduling.png": "/sukhjit2003/static/media/scheduling.c4e0942c545d8ecd959d.png",
+    "static/media/tic tac toe.png": "/sukhjit2003/static/media/tic tac toe.525cd3d2274b58ba2a0d.png",
+    "static/media/photo.png": "/sukhjit2003/static/media/photo.1e02f45b2ea8da9c28d3.png",
     "static/media/logo.svg": "/sukhjit2003/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/sukhjit2003/index.html",
     "main.b026715d.css.map": "/sukhjit2003/static/css/main.b026715d.css.map",
-    "main.34615d0c.js.map": "/sukhjit2003/static/js/main.34615d0c.js.map",
+    "main.215d4ecb.js.map": "/sukhjit2003/static/js/main.215d4ecb.js.map",
     "787.6e1d3aae.chunk.js.map": "/sukhjit2003/static/js/787.6e1d3aae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b026715d.css",
-    "static/js/main.34615d0c.js"
+    "static/js/main.215d4ecb.js"
   ]
 }
